@@ -44,3 +44,7 @@ You can customize the stopwatch according to your preferences:
 ## Author
 
 Ashish..
+
+### Thanks
+
+If you like this portfolio  don't forget give it a ⭐ 
